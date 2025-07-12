@@ -20,4 +20,5 @@
 - Practiced `list.append(item)` and `list.sort()`
 
 ## Reflections:
-This was a fun and satisfying day — I loved the feeling of solving list-related problems. The logic is beginning to click even more deeply. I feel **invincible** with every quiz I ace!
+I feel so hooked — this is more than learning, it's a joyful obsession now 😍  
+Dr. Chuck’s teaching style makes every concept stick, and solving quizzes gives me a true sense of achievement. Day 31 was invincible!
