@@ -14,5 +14,9 @@
 
 ![Python Data Structures Certificate](./Python_Data_Structures_Certificate_Screenshot.png)
 
-https://img.shields.io/badge/Certificate-2nd_Earned-blueviolet?style=for-the-badge&logo=python
-https://img.shields.io/badge/Course_Completed-Python_Data_Structures-brightgreen?style=for-the-badge&logo=coursera
+## 🏆 My Learning Journey Milestones
+
+![2nd Certificate Earned](https://img.shields.io/badge/Certificate-2nd_Earned-blueviolet?style=for-the-badge&logo=python)
+
+![Python Data Structures](https://img.shields.io/badge/Course_Completed-Python_Data_Structures-brightgreen?style=for-the-badge&logo=coursera)
+
