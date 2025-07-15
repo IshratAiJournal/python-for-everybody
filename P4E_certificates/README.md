@@ -6,6 +6,9 @@
 📚 Platform: [Coursera](https://coursera.org)  
 🔥 Milestone: Day 30 of my coding journey!
 
+![Python for Everybody](https://img.shields.io/badge/Certificate-Python_for_Everybody-blue?style=for-the-badge&logo=coursera)
+
+
 ## 🎓 Python Data Structures Certificate
 
 📅 Completed on: 15 July 2025  Day 35 of my coding journey!
