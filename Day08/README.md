@@ -1,6 +1,6 @@
 # 🌟 Day 08 — Python for Beginners: Subject Line Analysis from Text Files
 
-📅 **Date**: 15 July 2025  
+📅 **Date**: 16 July 2025  
 👩‍💻 **Day**: 36 of Coding | Day 08 of Python for Beginners  
 📘 **Topic**: Strings, Files & Loops Practice  
 🔤 **File Used**: `myfile.txt`
